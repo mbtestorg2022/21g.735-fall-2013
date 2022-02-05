@@ -50,11 +50,72 @@ Edwards, Gwynne. _The Discreet Art of Luis Buñuel: A Reading of His Films_. Mar
 Determination of Final Grade
 ----------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and quantity and quality of active participation in class discussions | 40% |
-| Written notes on _Mí último suspiro_ |   5% |
-| First oral (student group) report | 10% |
-| 750 word essay on scene from film | 10% |
-| Oral report on 10 page paper | 10% |
-| 10 page paper | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and quantity and quality of active participation in class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written notes on _Mí último suspiro_
+{{< tdclose >}}
+{{< tdopen >}}
+  5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First oral (student group) report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+750 word essay on scene from film
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral report on 10 page paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 page paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
