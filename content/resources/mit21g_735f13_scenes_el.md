@@ -4,6 +4,7 @@ description: "This file contains information regarding scenes from the movie \u2
   el\u201D"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-735-advanced-topics-in-hispanic-literature-and-film-the-films-of-luis-bunuel-fall-2013/c9ffa9fee9ce96b8949ee7179c70346c_MIT21G_735F13_Scenes_El.pdf
 file_type: application/pdf
+parent_uid: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
 resourcetype: Document
 title: "21G.735 Scenes from the Movie \u201CEl\u201D"
 uid: c9ffa9fe-e9ce-96b8-949e-e7179c70346c
